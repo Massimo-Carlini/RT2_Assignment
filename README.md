@@ -6,8 +6,8 @@ Description of multiple assignment
 ----------------------------------
 The assignments for the Research Track2 course are divided into 3 parts that involve the use of different software, which will be explained below.
 
-Description of first assignment
---------------------------------
+Description of [first assignment](https://massimo-carlini.github.io/RT2_Assignment/)
+--------------------------------------------------------------------------------------
 The first assignment focuses on using Doxygen to comment the code developed during the second assignment of the first Research Track course.
 The files related to this assignment can be found in the `docs` folder of this GitHub repository.
 
