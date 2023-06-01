@@ -2,7 +2,7 @@ RT2 Assignment
 ================
 _Massimo Carlini S4678445_
 
-Description of multiple assignment
+Multiple assignment
 ----------------------------------
 The assignments for the Research Track2 course are divided into 3 parts that involve the use of different software, which will be explained below.
 
